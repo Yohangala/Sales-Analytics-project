@@ -10,3 +10,10 @@ Global Superstore Dataset (Kaggle)
 - Python (Pandas, NumPy)
 - SQL
 - Power BI
+
+## 🔍 Key Business Insights
+- Identified seasonal sales patterns supporting demand forecasting and inventory planning
+- Found that a small number of regions and products contribute the majority of revenue
+- Observed that high-revenue categories do not always yield high profit margins
+- Highlighted opportunities to improve Average Order Value through bundling and upselling
+- Revealed potential business risk due to over-dependence on top-selling products
